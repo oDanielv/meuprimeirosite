@@ -1,0 +1,42 @@
+html, body{
+    height: 100%;
+ }
+ .menu
+ {
+
+     background-color: #20a4f3;
+     height: 10%;
+     width: 100%;
+ }
+ #logo{
+     margin-left: 1%;
+ }
+ 
+ .article{
+
+
+     height: 50%;
+     width: 100%;
+     }
+.inicio{
+    height: 25%;
+    padding: 0 0 0 0 ;
+    background-image: url("../img/background2.png");
+
+
+}
+#h2-inicio{
+    text-align: center;
+    margin-top: 2%;
+    
+}
+#h3-inicio{
+    text-align: center;
+
+
+}
+.footer{
+    background-color: #011627;
+    height: 15%;
+    width: 100%;
+}
